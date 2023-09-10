@@ -1,4 +1,4 @@
-**Virtual Mouse Game**
+**GestureShape Pro**
 This is a Python application that turns your hand movements into a virtual mouse control game using OpenCV, MediaPipe, and PyAutoGUI.
 
 **Overview**
